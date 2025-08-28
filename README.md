@@ -47,18 +47,6 @@ I specialize in **data-intensive systems, scalable pipelines, and identity platf
   Interactive periodic table web app built with Angular + Spring Boot + MongoDB, featuring JWT-based authentication and complete admin user management.  
   ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/calebd-anderson/open-chemistry-lab-backend)
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=calebd-anderson&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calebd-anderson&layout=compact&theme=radical)
-
-## 🤝 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/calebdanderson)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel)](https://calebdanderson.dev)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caleb@calebdanderson.dev)
-
 ---
 
 ✨ _“I build software that scales — from high-performance pipelines to secure authentication systems — always with a focus on reliability and clean architecture.”_
