@@ -13,6 +13,7 @@ I specialize in **data-intensive systems, scalable pipelines, and identity platf
       <a href="https://www.java.com/en/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
       <a href="https://www.typescriptlang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>
+      <a href="https://www.rust-lang.org/"><img src="assets/rust_dark.svg" alt="Rust" width="40" height="40"/></a>
   </section>
 
   <section>
@@ -29,6 +30,7 @@ I specialize in **data-intensive systems, scalable pipelines, and identity platf
       <a href="https://www.mongodb.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/></a>
       <a href="https://www.postgresql.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/></a>
       <a href="https://www.microsoft.com/en-us/sql-server/"><img src="assets/sql-server.svg" alt="SQL Server" width="40" height="40"/></a>
+      <a href="https://www.mysql.com/"><img src="assets/mysql.svg" alt="MySQL" width="40" height="40"/></a>
   </section>
 
   <section>
