@@ -23,6 +23,7 @@ I specialize in low-level programming, security research and data science.
       <a href="https://react.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/></a>
       <a href="https://angular.dev/"><img src="assets/angular.svg" alt="Angular" width="40" height="40"/></a>
       <a href="https://vuejs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40"/></a>
+      <a href="https://webpack.js.org"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/></a>
   </section>
 
   <section>
