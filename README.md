@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Caleb
 
-🚀 **Full-Stack Software Engineer** with over 17 years studying software engineering and 3 years of professional industry experience.  
-I specialize in **data-intensive systems, scalable pipelines, and identity platforms** that deliver efficiency, reliability, and security.
+🚀 **Software Engineer** with over 17 years studying software engineering and 3 years of professional industry experience.  
+I specialize in low-level programming, security research and data science.
 
 ## 🔧 Tech Stack
 
