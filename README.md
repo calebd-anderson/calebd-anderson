@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Caleb
 
-🚀 **Software Engineer** with over 17 years studying software engineering, B.S. in Computer Information Technology, Minor in Computer Forensics and 3 years of professional industry experience on cross-functional agile software engineering teams.  
+🚀 **Software Engineer** with over 17 years formal and independent technical study, a B.S. in Computer Information Technology, Minor in Computer Forensics and 3 years of professional industry experience on agile software and data engineering teams.  
 I specialize in full-stack software engineering, low-level programming, security research and data science.
 
 ## 🔧 Tech Stack
