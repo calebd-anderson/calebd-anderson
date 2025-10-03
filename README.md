@@ -23,6 +23,7 @@
       <a href="https://angular.dev/"><img src="assets/angular.svg" alt="Angular" width="40" height="40"/></a>
       <a href="https://vuejs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40"/></a>
       <a href="https://webpack.js.org"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/></a>
+      <a href="https://kubernetes.io/"><img src="assets/kubernetes.svg" alt="Kubernetes" width="40" height="40"/></a>
   </section>
 
   <section>
@@ -49,7 +50,6 @@
   Interactive periodic table web app built with Angular + Spring Boot + MongoDB, featuring JWT-based authentication and complete admin user management.  
   ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/calebd-anderson/open-chemistry-lab-backend)
 
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/pulls?q=is%3Apr+author%3Acalebd-anderson+is%3Aclosed)
----
+## [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/pulls?q=is%3Apr+author%3Acalebd-anderson+is%3Aclosed)
 
 ✨ _“I build software that scales — from high-performance pipelines to secure authentication systems — always with a focus on reliability and clean architecture.”_
