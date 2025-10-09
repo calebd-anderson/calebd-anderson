@@ -24,6 +24,7 @@
       <a href="https://vuejs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40"/></a>
       <a href="https://webpack.js.org"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/></a>
       <a href="https://kubernetes.io/"><img src="assets/kubernetes.svg" alt="Kubernetes" width="40" height="40"/></a>
+      <a href="https://graphql.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/graphql/graphql-plain-wordmark.svg" alt="GraphQL" width="40" height="40"/></a>
   </section>
 
   <section>
