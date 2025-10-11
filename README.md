@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Caleb
 
-🚀 **Software Engineer** with 3 years of professional industry experience, startup experience and over 17 years formal and independent technical study, a B.S. in Computer Information Technology, and Minor in Computer Forensics. Expertise working on data intensive applications on agile engineering teams.
+🚀 **Software Engineer** with 3 years of professional industry experience, startup experience and over 17 years of formal and independent technical study, B.S. in Computer Information Technology, Minor in Computer Forensics. Expertise working on data intensive applications on agile engineering teams.
 
 ## 🔧 Tech Stack
 
@@ -14,6 +14,7 @@
       <a href="https://www.typescriptlang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>
       <a href="https://www.rust-lang.org/"><img src="assets/rust_dark.svg" alt="Rust" width="40" height="40"/></a>
       <a href="https://www.php.net/"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/php/php-original.svg" alt="PHP" width="40" height="40"/></a>
+      <a href="https://www.w3docs.com/learn-html/html5-introduction.html"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/></a>
   </section>
 
   <section>
