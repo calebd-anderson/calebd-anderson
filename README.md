@@ -13,6 +13,7 @@
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
       <a href="https://www.typescriptlang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>
       <a href="https://www.rust-lang.org/"><img src="assets/rust_dark.svg" alt="Rust" width="40" height="40"/></a>
+      <a href="https://www.php.net/"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/php/php-original.svg" alt="PHP" width="40" height="40"/></a>
   </section>
 
   <section>
