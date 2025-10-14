@@ -3,7 +3,9 @@
 🚀 **Software Engineer** with 3 years of professional industry experience, startup experience and over 17 years of formal and independent technical study, a B.S. in Computer Information Technology, Minor in Computer Forensics. Expertise working on data intensive applications on agile engineering teams.
 
 ## 🔧 Tech Stack
+
 ### Languages
+
   <section>
       <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
       <a href="https://cplusplus.com/info/description/"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
@@ -18,6 +20,7 @@
   </section>
 
 ### Frameworks
+
   <section>
       <a href="https://dotnet.microsoft.com/en-us/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" width="40" height="40"/></a>
       <a href="https://spring.io/projects/spring-boot"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/></a>
@@ -27,9 +30,13 @@
       <a href="https://webpack.js.org"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/></a>
       <a href="https://kubernetes.io/"><img src="assets/kubernetes.svg" alt="Kubernetes" width="40" height="40"/></a>
       <a href="https://graphql.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/graphql/graphql-plain-wordmark.svg" alt="GraphQL" width="40" height="40"/></a>
+      <a href="https://www.djangoproject.com/">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/django/django-plain.svg" alt="Django" width="40" height="40" >
+      </a>
   </section>
 
 ### Databases
+
   <section>
       <a href="https://www.mongodb.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/></a>
       <a href="https://www.postgresql.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/></a>
@@ -37,7 +44,8 @@
       <a href="https://www.mysql.com/"><img src="assets/mysql.svg" alt="MySQL" width="40" height="40"/></a>
   </section>
 
-###  Cloud / Infra
+### Cloud / Infra
+
   <section>
       <a href="https://aws.amazon.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/></a>
         <a href="https://azure.microsoft.com/en-us/"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/></a>
