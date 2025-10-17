@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Caleb
 
-🚀 **Software Engineer** with 3 years industry experience and over 17 years of formal and independent technical study, a B.S. in Computer Information Technology and Minor in Computer Forensics. Expertise working on data intensive applications on agile engineering teams.
+🚀 **Software Engineer** with 3 years industry experience and over 17 years of formal and independent technical study, a B.S. in Computer Information Technology and Minor in Computer Forensics. Expertise in full stack web development and cybersecurity.
 
 ## 🔧 Tech Stack
 
