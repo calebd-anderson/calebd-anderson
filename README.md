@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Caleb
 
-🚀 **Software Engineer** - B.S. in Computer Information Technology, Computer Forensics minor, expertise in full stack development and cybersecurity.
+🚀 **Software Engineer** - B.S. in Computer Information Technology, Computer Forensics minor. Expertise in full stack development and cybersecurity.
 
 ## 🔧 Tech Stack
 
