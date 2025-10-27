@@ -28,7 +28,6 @@
       <a href="https://angular.dev/"><img src="assets/angular.svg" alt="Angular" width="40" height="40"/></a>
       <a href="https://vuejs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40"/></a>
       <a href="https://webpack.js.org"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/></a>
-      <a href="https://kubernetes.io/"><img src="assets/kubernetes.svg" alt="Kubernetes" width="40" height="40"/></a>
       <a href="https://graphql.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/graphql/graphql-plain-wordmark.svg" alt="GraphQL" width="40" height="40"/></a>
       <a href="https://www.djangoproject.com/">
         <img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/django/django-plain.svg" alt="Django" width="40" height="40" >
@@ -53,6 +52,7 @@
         <a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/></a>
       <a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
       <a href="https://www.keycloak.org/"><img src="assets/keycloak.svg" alt="Git" width="40" height="40"/></a>
+      <a href="https://kubernetes.io/"><img src="assets/kubernetes.svg" alt="Kubernetes" width="40" height="40"/></a>
   </section>
 
 ## 📌 Featured Projects
