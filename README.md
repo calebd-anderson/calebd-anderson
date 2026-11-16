@@ -5,7 +5,7 @@ I specialize in building scalable, multi-service architectures that bridge the g
 
 ## 🚀 Featured Project
 
-### 🧪 [The Catalyst Engine](https://github.com/calebd-anderson/open-chemistry-lab-backend)
+### 🧪 [The Catalyst Engine](https://chem.calebdanderson.dev/)
 > A cloud-native platform for exploring chemical compounds through unsupervised machine learning.
 
 - **The Tech Stack:** 
