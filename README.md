@@ -16,7 +16,7 @@ I specialize in building scalable, multi-service architectures that bridge the g
   [![Powered by RDKit](https://img.shields.io/badge/Powered%20by-RDKit-3838ff.svg?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAFVBMVEXc3NwUFP8UPP9kZP+MjP+0tP////9ZXZotAAAAAXRSTlMAQObYZgAAAAFiS0dEBmFmuH0AAAAHdElNRQfmAwsPGi+MyC9RAAAAQElEQVQI12NgQABGQUEBMENISUkRLKBsbGwEEhIyBgJFsICLC0iIUdnExcUZwnANQWfApKCK4doRBsKtQFgKAQC5Ww1JEHSEkAAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMi0wMy0xMVQxNToyNjo0NyswMDowMDzr2J4AAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjItMDMtMTFUMTU6MjY6NDcrMDA6MDBNtmAiAAAAAElFTkSuQmCC)](https://www.rdkit.org/)
 - **Core Innovation:** Developed a custom vectorization engine that transforms raw chemical properties into high-dimensional data for clustering.
 - **Machine Learning:** Leveraged [Java SMILE DBSCAN](https://www.aihalo.dev/clustering#dbscan) for unsupervised learning, allowing for the discovery of hidden patterns in molecular structures.
-- **Cloud-Native Architecture:** Built using a **BFF (Backend-for-Frontend) pattern** to decouple the Angular UI from the heavy-lifting Python ML microservice.
+- **Cloud-Native Architecture:** Built using a **BFF (Backend-for-Frontend) pattern** to decouple the Angular UI from the heavy-lifting Spring Boot API and Python microservice.
 - **Data Integration:** Real-time data fetching and processing from the **NIH PubChem API**.
 
 ---
