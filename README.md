@@ -17,7 +17,7 @@ I specialize in building scalable, multi-service architectures that bridge the g
 - **Core Innovation:** Developed a custom vectorization engine that transforms raw chemical properties into high-dimensional data for clustering.
 - **Machine Learning:** Leveraged [Java SMILE DBSCAN](https://www.aihalo.dev/clustering#dbscan) for unsupervised learning, allowing for the discovery of hidden patterns in molecular structures.
 - **Cloud-Native Architecture:** Built using a **BFF (Backend-for-Frontend) pattern** to decouple the Angular UI from the heavy-lifting Spring Boot API and Python microservice.
-- **Data Integration:** Real-time data fetching and processing from the **NIH PubChem API**.
+- **Data Integration:** Real-time data fetching and processing from the [NIH PubChem API](https://pubchem.ncbi.nlm.nih.gov/).
 
 ---
 
