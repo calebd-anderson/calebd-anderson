@@ -31,4 +31,4 @@ I specialize in building scalable, multi-service architectures that bridge the g
 | **Domain** | Computational Chemistry, Unsupervised Learning |
 
 ## 📫 Connect with me
-[LinkedIn](https://www.linkedin.com/in/calebdanderson/) | [Portfolio](https://calebdanderson.dev/)
+[LinkedIn](https://www.linkedin.com/in/calebdanderson/) | [Website](https://calebdanderson.dev/)
